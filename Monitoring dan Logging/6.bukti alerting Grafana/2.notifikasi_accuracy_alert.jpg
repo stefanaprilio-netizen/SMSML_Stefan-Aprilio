@@ -1,0 +1,3 @@
+[Placeholder for Grafana Alerting Notification]
+Status: FIRING
+Message: model_accuracy is critically low!

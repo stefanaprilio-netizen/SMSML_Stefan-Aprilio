@@ -1,0 +1,3 @@
+[Placeholder for Prometheus Monitoring: Inference Count]
+Metric: model_inference_total
+Status: Scraped Successfully

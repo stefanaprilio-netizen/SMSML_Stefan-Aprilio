@@ -1,0 +1,8 @@
+DagsHub Integration Information:
+Repository: stefanaprilio-netizen/SMSML_Stefan-Aprilio
+MLflow Tracking URI: https://dagshub.com/stefanaprilio-netizen/SMSML_Stefan-Aprilio.mlflow
+
+To log to DagsHub, ensure you have set your DAGSHUB_USER_TOKEN:
+$env:DAGSHUB_USER_TOKEN = "your_token_here"
+
+The modelling_tuning.py script uses dagshub.init() to automatically configure the tracking URI and authentication if the token is present.

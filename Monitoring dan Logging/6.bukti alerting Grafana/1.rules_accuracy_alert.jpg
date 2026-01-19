@@ -1,4 +1,0 @@
-[Placeholder for Grafana Alerting Rule]
-Rule Name: Accuracy Drop Alert
-Condition: accuracy < 0.90
-Notification: Webhook / Slack
